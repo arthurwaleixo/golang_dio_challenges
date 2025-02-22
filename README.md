@@ -1,5 +1,4 @@
 <h1 align="center">
-  <span>Go - Golang</span>
   <img
     src="https://img.shields.io/badge/golang-black?style=for-the-badge&logo=Go&logoColor=nlue"
   />
@@ -14,13 +13,10 @@
 </div>
 
 <div>
-  <h2>☆</h2>
   <p>
-    Esse repositório foi criado com a intenção de compilar os desafios do curso
-    <strong> Formação Go Developer </strong> para não ter que ficar criando
-    novos repositórios.
+    Esse repositório foi criado com a intenção de reunir os códigos dos desafios do curso
+    <strong> Formação Go Developer </strong>
   </p>
-  <p>Na tabela abaixo estará os desafios feitos em ordem. <br /></p>
   <table>
     <thead>
       <tr align="center">
