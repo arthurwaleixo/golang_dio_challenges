@@ -1,10 +1,8 @@
 <h1 align="center">
-  <a href="https://pokemondb.net/pokedex/pachirisu"
-    ><img
-      src="https://img.pokemondb.net/sprites/black-white/anim/normal/pachirisu-f.gif"
-      alt="Pachirisu"
-  /></a>
   <span>Go - Golang</span>
+  <img
+    src="https://img.shields.io/badge/golang-black?style=for-the-badge&logo=Go&logoColor=nlue"
+  />
 </h1>
 
 <div align="center">
@@ -12,9 +10,6 @@
     Repositório de estudos para o curso
     <strong> Formação Go Developer </strong> <br />
   </p>
-  <img
-    src="https://img.shields.io/badge/golang-black?style=for-the-badge&logo=Go&logoColor=nlue"
-  />
   <br />
 </div>
 
