@@ -36,7 +36,7 @@
       <tr>
         <td>
           <a
-            href="https://github.com/arthurwaleixo/golang_dio_challenges/challenges/challenge1.go"
+            href="https://github.com/arthurwaleixo/golang_dio_challenges/blob/main/challenges/challenge1.go"
             >Desafio 1</a
           >
         </td>
