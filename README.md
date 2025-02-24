@@ -32,6 +32,19 @@
           >
         </td>
       </tr>
+      <tr>
+        <td>
+          Desafio 2
+          <a
+            href="https://github.com/arthurwaleixo/golang_dio_challenges/blob/main/challenges/challenge2/part1.go"
+            >Parte 1</a
+          >
+          <a
+            href="https://github.com/arthurwaleixo/golang_dio_challenges/blob/main/challenges/challenge2/part2.go"
+            >Parte 2</a
+          >
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
