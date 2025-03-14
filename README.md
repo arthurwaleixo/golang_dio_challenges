@@ -53,6 +53,14 @@
           >
         </td>
       </tr>
+      <tr>
+        <td>
+          <a
+            href="https://github.com/arthurwaleixo/golang_dio_challenges/blob/main/challenges/challenge4.go"
+            >Desafio 4</a
+          >
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
